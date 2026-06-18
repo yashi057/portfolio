@@ -40,8 +40,8 @@ I am an aspiring AI & NLP Engineer passionate about building intelligent systems
 
 ## 🔗 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/yashika-soni47/]
-GitHub: https://github.com/yashi057
-Portfolio: https://portfolio-gamma-two-lvbmcdtb8a.vercel.app/
+LinkedIn: [https://www.linkedin.com/in/yashika-soni47/] <br>
+</br> <br> GitHub: https://github.com/yashi057 </br>
+<br> Portfolio: https://portfolio-gamma-two-lvbmcdtb8a.vercel.app/ </br>
 
 ⭐ If you like this project, feel free to star the repository.

@@ -42,6 +42,6 @@ I am an aspiring AI & NLP Engineer passionate about building intelligent systems
 
 LinkedIn: [https://www.linkedin.com/in/yashika-soni47/]
 <br> GitHub: https://github.com/yashi057 </br>
-<br> Portfolio: https://portfolio-gamma-two-lvbmcdtb8a.vercel.app/ </br>
+Portfolio: https://portfolio-gamma-two-lvbmcdtb8a.vercel.app/ 
 
 ⭐ If you like this project, feel free to star the repository.
